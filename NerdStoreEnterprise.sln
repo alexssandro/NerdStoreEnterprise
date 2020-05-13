@@ -19,34 +19,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{A86224FA-374
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{73A8BB86-4B67-4A8B-84A3-E8209FF36FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.WebApp.MVC", "src\web\NSE.WebApp.MVC\NSE.WebApp.MVC.csproj", "{55BB6C75-96AA-4CA7-B9F0-337B89F95023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.WebApp.MVC", "src\web\NSE.WebApp.MVC\NSE.WebApp.MVC.csproj", "{55BB6C75-96AA-4CA7-B9F0-337B89F95023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Core", "src\building blocks\NSE.Core\NSE.Core.csproj", "{656B7446-317C-4C51-AB5A-A51618D97BC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Core", "src\building blocks\NSE.Core\NSE.Core.csproj", "{656B7446-317C-4C51-AB5A-A51618D97BC1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Carrinho", "Carrinho", "{1E99015F-5B5F-472C-B4D1-C1CA11FD40A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFSE.Carrinho.API", "src\services\NFSE.Carrinho.API\NFSE.Carrinho.API.csproj", "{4052F96C-7988-44CB-A0CA-3979F44AF59E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NFSE.Carrinho.API", "src\services\NFSE.Carrinho.API\NFSE.Carrinho.API.csproj", "{4052F96C-7988-44CB-A0CA-3979F44AF59E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalogo", "Catalogo", "{E51CD871-0B5A-4466-894F-E773B6B210C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Catalogo.API", "src\services\NSE.Catalogo.API\NSE.Catalogo.API.csproj", "{E033BEA9-3D4F-448F-8760-51B6D4D8C627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Catalogo.API", "src\services\NSE.Catalogo.API\NSE.Catalogo.API.csproj", "{E033BEA9-3D4F-448F-8760-51B6D4D8C627}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cliente", "Cliente", "{673FFF48-E677-4D95-BE8F-826BACA72011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Cliente.API", "src\services\NSE.Cliente.API\NSE.Cliente.API.csproj", "{04C2FEBF-6D62-49E0-B966-438511DA37D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Cliente.API", "src\services\NSE.Cliente.API\NSE.Cliente.API.csproj", "{04C2FEBF-6D62-49E0-B966-438511DA37D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagamento", "Pagamento", "{7898A7E7-F947-4C7C-9B57-5C28BC9FA56D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Pagamento.API", "src\services\NSE.Pagamento.API\NSE.Pagamento.API.csproj", "{FD547404-C7B5-4A79-A658-589264810E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pagamento.API", "src\services\NSE.Pagamento.API\NSE.Pagamento.API.csproj", "{FD547404-C7B5-4A79-A658-589264810E41}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedido", "Pedido", "{0ABCF3B9-D33D-4676-BBB0-4A9611892165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Pedido.API", "src\services\NSE.Pedido.API\NSE.Pedido.API.csproj", "{7200A798-DCE3-4A0A-B685-93649C27129E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pedido.API", "src\services\NSE.Pedido.API\NSE.Pedido.API.csproj", "{7200A798-DCE3-4A0A-B685-93649C27129E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5902D961-16BA-4F30-BC5F-3569C7B8C376}"
-	ProjectSection(SolutionItems) = preProject
-		git.ignore = git.ignore
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
